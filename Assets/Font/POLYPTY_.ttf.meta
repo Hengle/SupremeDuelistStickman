@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9459e8cb0edc46089fd1ff8e5d66a424
+timeCreated: 1568126519
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "POLYPTY_"
+  fontNames:
+  - Polygon Party
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 
