@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - blue
+  - sol
+  - arme
+  - red
+  - pointfaible
+  - membre
+  - tete
+  - rebond
+  - BluePlayer
+  - RedPlayer
+  - son
+  - home
+  - Player1
+  - Player2
+  - skinB
+  - skinY
+  - mur
+  - WeaponRed
+  - WeaponBlue
+  - efface
+  - verrou
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - blue
+  - arme
+  - map
+  - red
+  - arme2
+  - end
+  - ray
+  - Press
+  - Ball
+  - Menu
+  - SolBleu
+  - SolRouge
+  - invicible
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: "Default"
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,35 @@
+[129: PlayerSettings] string.size 775499313 > 10_000_000 \projectName, buf.Position=484
+129: PlayerSettings pathID: 1
+
+Ba.Warning: pos: 484 != len: 542 for: {fileID: 0 (globalgamemanagers), pathID: 1, m_Name: , type: PlayerSettings}
+[141: BuildSettings] string.size 453027394 > 10_000_000 \m_Version, buf.Position=180
+141: BuildSettings pathID: 11
+
+Ba.Warning: pos: 180 != len: 10564 for: {fileID: 0 (globalgamemanagers), pathID: 11, m_Name: , type: BuildSettings}
+Ba.Warning: pos: 284 != len: 360 for: {fileID: 0 (globalgamemanagers), pathID: 16, m_Name: , type: NavMeshAreas}
+Resolve4: UnityEngine
+Resolve4: mscorlib
+Resolve4: UnityEngine.UI
+img read old
+img read old
+Missed: for UnityEngine.dll/UnityEngine/GUISkin
+Missed: for UnityEngine.dll/UnityEngine/GUISkin
+Missed: for UnityEngine.dll/UnityEngine/GUISkin
+Make Script DB
+Make Scripts
+Code decompile: Assembly-CSharp.dll, class_name=*, type=DecompilerFi
+Check for DeObfuscate: Assembly-CSharp.dll
+Find requried fix functions with empty param names, count: 8 (activate with 'Allow to de-obfuscate assembly' options)
+Assembly 'Assembly-CSharp.dll' - obfuscated (for deobfuscate - activate 'Allow to de-obfuscate assembly' options)
+DecompilerFi.exe begin decomplile
+DecompilerFi.exe end process
+Assembly-CSharp.dll- prepare classes, count: 149
+Assembly-CSharp.dll - decompiled
+Make plugins
+Check for DeObfuscate: Assembly-CSharp.dll
+Find requried fix functions with empty param names, count: 8 (activate with 'Allow to de-obfuscate assembly' options)
+Assembly 'Assembly-CSharp.dll' - obfuscated (for deobfuscate - activate 'Allow to de-obfuscate assembly' options)
+Convert UnityAssembly To Plugin: from Assembly-CSharp to PluginAs-CSharp
+Make binStreamingAssets
+Write scrip db
+MakeUnityProject - end, dir: E:\Unity Exported\Supreme Duelist Stickman
